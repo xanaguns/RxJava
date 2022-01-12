@@ -577,7 +577,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-    // https://blog.yena.io/studynote/2020/10/23/Android-RxJava(2).html
+    // https://blog.yena.io/studynote/
     // 1. 시작
         reactiveProgramming();
 
